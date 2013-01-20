@@ -19,3 +19,6 @@ Summary: I am erasing this entire README file because I am rewriting all of HTML
 I also am not required to license HTML6.mint under the same license as HTML6. Why? Because I am using
 absolutely 0.0 percent of the original code from the original HTML6 repository. All of HTML6.mint is my
 own personal work.
+
+Email me at j@oliverchu.com to be added to the list of people who have worked or written code
+for the project HTML6.mint, a.k.a. HTML[6].
