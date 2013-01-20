@@ -6,7 +6,7 @@ ARE SIMPLY IGNORED COMPLETELY, AND ARE NOT USED.
 I, Oliver Chu, also known as the user "Carrot Lord" on some online communities, and completely rewriting HTML6
 in the Mint programming language.
 
-I will NOT be keeping any existing features of HTML6. HTMl6 is a huge experiment, and I only want
+I will NOT be keeping any existing features of HTML6. HTML6 is a huge experiment, and I only want
 my own features for my own version of HTML6.
 
 I will call my version of HTML6 either HTML[6] (with square brackets) or simply HTML6.mint to distinguish
