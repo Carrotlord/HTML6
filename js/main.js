@@ -1,4 +1,1 @@
-$(function () {
-  $('pre').addClass('prettyprint');
-  prettyPrint();
-});
+THIS FILE CANNOT BE USED.
